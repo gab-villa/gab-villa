@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **javascript**
 
 - 📫 How to reach me **gab-villa@hotmail.com**
 
