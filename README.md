@@ -20,7 +20,7 @@
 <img align="left" src="https://github-readme-stats-gab-villa.vercel.app/api/top-langs/?username=gab-villa&hide_progress=true" />
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats-gab-villa.vercel.app/api?username=gab-villa&show_icons=true&&theme=react)
+![Gabriel's GitHub stats](https://github-readme-stats-gab-villa.vercel.app/api?username=gab-villa&show_icons=true&&theme=react)
 
 ![Top Langs](https://github-readme-stats-gab-villa.vercel.app/api/top-langs/?username=gab-villa&hide_progress=true&&theme=react)
 
