@@ -1,0 +1,9 @@
+settings:
+  whitelisted_events:
+  - push
+  - star
+  - issues
+  - fork
+  - create repo
+  - member
+  - comments
