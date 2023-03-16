@@ -38,5 +38,4 @@ messages:
   changes_requested: "🔴 Requested changes in {ID} in {REPO}"
   new_release: "✌️ Released {ID} in {REPO}"
   new_star: "⭐ Starred {REPO}"
-settings:
   
