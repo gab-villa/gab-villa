@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-villa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![gab-villa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab-villa)](https://github.com/anuraghazra/github-readme-stats)
+[![gab-villa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab-villa)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
