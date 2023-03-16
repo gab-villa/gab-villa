@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **everything**!
 
-- 🏆 Recently passed the final algorithm exam at my college 🥳 
+- 🏆 Recently passed the final algorithms exam at my college 🥳 
 
 - 🔎 Looking for developers to create some interesting projects 
 
