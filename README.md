@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A computer science student from Argentina</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **javascript and design patterns**
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **everything**!
+
+- 🏆 Recently passed the final algorithm exam at my college 🥳 
+
+- 🔎 Looking for developers to create some interesting projects 
 
 - 📫 How to reach me **gab-villa@hotmail.com**
-
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
