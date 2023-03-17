@@ -25,6 +25,7 @@
 ![Top Langs](https://github-readme-stats-gab-villa.vercel.app/api/top-langs/?username=gab-villa&hide_progress=true&&theme=react)
 
 
+## Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#29354](https://github.com/timburgan/timburgan/issues/29354) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
