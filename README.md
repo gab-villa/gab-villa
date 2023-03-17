@@ -25,6 +25,7 @@
 ![Top Langs](https://github-readme-stats-gab-villa.vercel.app/api/top-langs/?username=gab-villa&hide_progress=true&&theme=react)
 
 
+<!--START_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
