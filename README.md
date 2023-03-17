@@ -34,12 +34,6 @@
 5. ⬆️ Pushed 1 commit(s) to [gab-villa/gab-villa](https://github.com/gab-villa/gab-villa)<br>
 <!--RECENT_ACTIVITY:end-->
 
-
-## General
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29354](https://github.com/timburgan/timburgan/issues/29354) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-<!--END_SECTION:activity-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-villa-47a04a1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-villa-47a04a1a5" height="30" width="40" /></a>
