@@ -22,11 +22,11 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
+1. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
 2. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
 3. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
-4. ⭐ Starred [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
-5. ⭐ Starred [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
+4. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
+5. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
