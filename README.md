@@ -23,10 +23,10 @@
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
-2. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
-3. 📔 Created new repository [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
-4. ❗️ Opened issue [#267](https://github.com/Readme-Workflows/recent-activity/issues/267) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+2. ⭐ Starred [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
+3. ⭐ Starred [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
+4. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
+5. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-helper](https://github.com/gab-villa/vocabulary-helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
