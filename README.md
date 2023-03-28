@@ -25,7 +25,7 @@
 1. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-vite](https://github.com/gab-villa/vocabulary-builder-vite)<br>
 2. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-vite](https://github.com/gab-villa/vocabulary-builder-vite)<br>
 3. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-vite](https://github.com/gab-villa/vocabulary-builder-vite)<br>
-4. ⬆️ Pushed 2 commit(s) to [gab-villa/vocabulary-builder-vite](https://github.com/gab-villa/vocabulary-builder-vite)<br>
+4. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-vite](https://github.com/gab-villa/vocabulary-builder-vite)<br>
 5. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-vite](https://github.com/gab-villa/vocabulary-builder-vite)<br>
 <!--RECENT_ACTIVITY:end-->
 
