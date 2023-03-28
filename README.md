@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A computer science student from Argentina</h3>
 
-- 🌱 Currently learning **javascript and design patterns**
+- 🌱 Currently learning **react**
 
 - 💬 Ask me about **everything**!
 
