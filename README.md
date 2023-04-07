@@ -22,10 +22,10 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. 📔 Created new repository [gab-villa/Dictionary-eng](https://github.com/gab-villa/Dictionary-eng)<br>
-2. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-react](https://github.com/gab-villa/vocabulary-builder-react)<br>
+1. ⬆️ Pushed 1 commit(s) to [gab-villa/Dictionary-eng](https://github.com/gab-villa/Dictionary-eng)<br>
+2. 📔 Created new repository [gab-villa/Dictionary-eng](https://github.com/gab-villa/Dictionary-eng)<br>
 3. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-react](https://github.com/gab-villa/vocabulary-builder-react)<br>
-4. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-vite](https://github.com/gab-villa/vocabulary-builder-vite)<br>
+4. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-react](https://github.com/gab-villa/vocabulary-builder-react)<br>
 5. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-vite](https://github.com/gab-villa/vocabulary-builder-vite)<br>
 <!--RECENT_ACTIVITY:end-->
 
