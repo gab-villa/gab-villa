@@ -17,8 +17,10 @@
 
 
 [![Gabriel's GitHub stats](https://github-readme-stats-brown-nu.vercel.app/api?username=gab-villa&show_icons=true&&theme=react)](https://github-readme-stats-brown-nu.vercel.app)
-
+ 
+ 
 [![Top Langs](https://github-readme-stats-brown-nu.vercel.app/api/top-langs/?username=gab-villa&hide_progress=true&&theme=react)](https://github-readme-stats-brown-nu.vercel.app)
+
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
