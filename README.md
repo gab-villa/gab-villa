@@ -24,11 +24,11 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [ThantZinPhyo-OP/React-Portfolio](https://github.com/ThantZinPhyo-OP/React-Portfolio)<br>
-2. ⬆️ Pushed 1 commit(s) to [gab-villa/Dictionary-eng](https://github.com/gab-villa/Dictionary-eng)<br>
-3. 📔 Created new repository [gab-villa/Dictionary-eng](https://github.com/gab-villa/Dictionary-eng)<br>
-4. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-react](https://github.com/gab-villa/vocabulary-builder-react)<br>
-5. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-react](https://github.com/gab-villa/vocabulary-builder-react)<br>
+1. 🔱 Forked [gab-villa/paradigmas-de-programacion-UNLAM](https://github.com/gab-villa/paradigmas-de-programacion-UNLAM) from [facundoangel/paradigmas-de-programacion-UNLAM](https://github.com/facundoangel/paradigmas-de-programacion-UNLAM)<br>
+2. ⭐ Starred [facundoangel/paradigmas-de-programacion-UNLAM](https://github.com/facundoangel/paradigmas-de-programacion-UNLAM)<br>
+3. ⭐ Starred [ThantZinPhyo-OP/React-Portfolio](https://github.com/ThantZinPhyo-OP/React-Portfolio)<br>
+4. ⬆️ Pushed 1 commit(s) to [gab-villa/Dictionary-eng](https://github.com/gab-villa/Dictionary-eng)<br>
+5. 📔 Created new repository [gab-villa/Dictionary-eng](https://github.com/gab-villa/Dictionary-eng)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
