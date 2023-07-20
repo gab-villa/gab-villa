@@ -29,11 +29,11 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. 🔱 Forked [gab-villa/CashCatRansomwareSimulator](https://github.com/gab-villa/CashCatRansomwareSimulator) from [leeberg/CashCatRansomwareSimulator](https://github.com/leeberg/CashCatRansomwareSimulator)<br>
-2. ⬆️ Pushed 1 commit(s) to [gab-villa/my-portfolio](https://github.com/gab-villa/my-portfolio)<br>
-3. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-react](https://github.com/gab-villa/vocabulary-builder-react)<br>
-4. ⬆️ Pushed 1 commit(s) to [gab-villa/Sistemas-Operativos-unlam](https://github.com/gab-villa/Sistemas-Operativos-unlam)<br>
-5. ⬆️ Pushed 1 commit(s) to [gab-villa/my-portfolio](https://github.com/gab-villa/my-portfolio)<br>
+1. ⭐ Starred [ytisf/theZoo](https://github.com/ytisf/theZoo)<br>
+2. 🔱 Forked [gab-villa/CashCatRansomwareSimulator](https://github.com/gab-villa/CashCatRansomwareSimulator) from [leeberg/CashCatRansomwareSimulator](https://github.com/leeberg/CashCatRansomwareSimulator)<br>
+3. ⬆️ Pushed 1 commit(s) to [gab-villa/my-portfolio](https://github.com/gab-villa/my-portfolio)<br>
+4. ⬆️ Pushed 1 commit(s) to [gab-villa/vocabulary-builder-react](https://github.com/gab-villa/vocabulary-builder-react)<br>
+5. ⬆️ Pushed 1 commit(s) to [gab-villa/Sistemas-Operativos-unlam](https://github.com/gab-villa/Sistemas-Operativos-unlam)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
