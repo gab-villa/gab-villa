@@ -32,7 +32,6 @@
 1. ⬆️ Pushed 1 commit(s) to [gab-villa/leaked-password-checker](https://github.com/gab-villa/leaked-password-checker)<br>
 2. ⬆️ Pushed 1 commit(s) to [gab-villa/leaked-password-checker](https://github.com/gab-villa/leaked-password-checker)<br>
 3. ⭐ Starred [trustedsec/unicorn](https://github.com/trustedsec/unicorn)<br>
-4. ⭐ Starred [ytisf/theZoo](https://github.com/ytisf/theZoo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
