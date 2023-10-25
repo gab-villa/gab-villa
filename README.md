@@ -29,9 +29,11 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [gab-villa/leaked-password-checker](https://github.com/gab-villa/leaked-password-checker)<br>
-2. ⬆️ Pushed 1 commit(s) to [gab-villa/leaked-password-checker](https://github.com/gab-villa/leaked-password-checker)<br>
-3. ⭐ Starred [trustedsec/unicorn](https://github.com/trustedsec/unicorn)<br>
+1. ⭐ Starred [gab-villa/CVE-2023-38831-KQL](https://github.com/gab-villa/CVE-2023-38831-KQL)<br>
+2. 🔱 Forked [gab-villa/CVE-2023-38831-KQL](https://github.com/gab-villa/CVE-2023-38831-KQL) from [PascalAsch/CVE-2023-38831-KQL](https://github.com/PascalAsch/CVE-2023-38831-KQL)<br>
+3. ⭐ Starred [PascalAsch/CVE-2023-38831-KQL](https://github.com/PascalAsch/CVE-2023-38831-KQL)<br>
+4. ⬆️ Pushed 1 commit(s) to [gab-villa/leaked-password-checker](https://github.com/gab-villa/leaked-password-checker)<br>
+5. ⬆️ Pushed 1 commit(s) to [gab-villa/leaked-password-checker](https://github.com/gab-villa/leaked-password-checker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
