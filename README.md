@@ -29,11 +29,11 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [gab-villa/CVE-2023-38831-KQL](https://github.com/gab-villa/CVE-2023-38831-KQL)<br>
-2. 🔱 Forked [gab-villa/CVE-2023-38831-KQL](https://github.com/gab-villa/CVE-2023-38831-KQL) from [PascalAsch/CVE-2023-38831-KQL](https://github.com/PascalAsch/CVE-2023-38831-KQL)<br>
-3. ⭐ Starred [PascalAsch/CVE-2023-38831-KQL](https://github.com/PascalAsch/CVE-2023-38831-KQL)<br>
-4. ⬆️ Pushed 1 commit(s) to [gab-villa/leaked-password-checker](https://github.com/gab-villa/leaked-password-checker)<br>
-5. ⬆️ Pushed 1 commit(s) to [gab-villa/leaked-password-checker](https://github.com/gab-villa/leaked-password-checker)<br>
+1. ⭐ Starred [gab-villa/avcleaner](https://github.com/gab-villa/avcleaner)<br>
+2. 🔱 Forked [gab-villa/avcleaner](https://github.com/gab-villa/avcleaner) from [scrt/avcleaner](https://github.com/scrt/avcleaner)<br>
+3. ⭐ Starred [scrt/avcleaner](https://github.com/scrt/avcleaner)<br>
+4. 🔱 Forked [gab-villa/RansomTuga](https://github.com/gab-villa/RansomTuga) from [Tugamer89/RansomTuga](https://github.com/Tugamer89/RansomTuga)<br>
+5. ⭐ Starred [Tugamer89/RansomTuga](https://github.com/Tugamer89/RansomTuga)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
