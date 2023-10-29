@@ -31,9 +31,9 @@
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed 1 commit(s) to [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
 2. ⬆️ Pushed 1 commit(s) to [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
-3. ⭐ Starred [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
-4. ⭐ Starred [gab-villa/avcleaner](https://github.com/gab-villa/avcleaner)<br>
-5. 🔱 Forked [gab-villa/avcleaner](https://github.com/gab-villa/avcleaner) from [scrt/avcleaner](https://github.com/scrt/avcleaner)<br>
+3. ⬆️ Pushed 1 commit(s) to [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
+4. ⭐ Starred [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
+5. ⭐ Starred [gab-villa/avcleaner](https://github.com/gab-villa/avcleaner)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
