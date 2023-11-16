@@ -32,8 +32,8 @@
 1. ⬆️ Pushed 1 commit(s) to [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
 2. ⬆️ Pushed 1 commit(s) to [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
 3. ⬆️ Pushed 1 commit(s) to [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
-4. ⭐ Starred [rpetrich/deciduous](https://github.com/rpetrich/deciduous)<br>
-5. ⭐ Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)<br>
+4. ⬆️ Pushed 1 commit(s) to [IgnaColla/PDP-TP-Heroes_y_Villanos](https://github.com/IgnaColla/PDP-TP-Heroes_y_Villanos)<br>
+5. ⭐ Starred [rpetrich/deciduous](https://github.com/rpetrich/deciduous)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
