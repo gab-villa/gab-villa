@@ -29,8 +29,8 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [gab-villa/Cybersecurity-free-tools-and-resources](https://github.com/gab-villa/Cybersecurity-free-tools-and-resources)<br>
-2. ⬆️ Pushed 1 commit(s) to [gab-villa/SOC-tools-and-resources](https://github.com/gab-villa/SOC-tools-and-resources)<br>
+1. 📔 Created new repository [gab-villa/Windows-Event-Collector-notes--and-resources](https://github.com/gab-villa/Windows-Event-Collector-notes--and-resources)<br>
+2. ⬆️ Pushed 1 commit(s) to [gab-villa/Cybersecurity-free-tools-and-resources](https://github.com/gab-villa/Cybersecurity-free-tools-and-resources)<br>
 3. ⬆️ Pushed 1 commit(s) to [gab-villa/SOC-tools-and-resources](https://github.com/gab-villa/SOC-tools-and-resources)<br>
 4. ⬆️ Pushed 1 commit(s) to [gab-villa/SOC-tools-and-resources](https://github.com/gab-villa/SOC-tools-and-resources)<br>
 5. ⬆️ Pushed 1 commit(s) to [gab-villa/SOC-tools-and-resources](https://github.com/gab-villa/SOC-tools-and-resources)<br>
