@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A computer science student from Argentina</h3>
 
-- 🌱 Currently learning **computer networks**
+- 🌱 Currently learning **blue team operations**
 
 - 💬 Ask me about **everything**!
 
