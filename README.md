@@ -32,8 +32,8 @@
 1. 🔱 Forked [gab-villa/Hunting-Queries-Detection-Rules](https://github.com/gab-villa/Hunting-Queries-Detection-Rules) from [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)<br>
 2. ⭐ Starred [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)<br>
 3. ⭐ Starred [Xacone/COURSES-NOTES](https://github.com/Xacone/COURSES-NOTES)<br>
-4. ⬆️ Pushed 1 commit(s) to [gab-villa/My-AD-lab](https://github.com/gab-villa/My-AD-lab)<br>
-5. ⬆️ Pushed 1 commit(s) to [gab-villa/Windows-Event-Collector-notes--and-resources](https://github.com/gab-villa/Windows-Event-Collector-notes--and-resources)<br>
+4. ⬆️ Pushed 1 commit(s) to [gab-villa/Cybersecurity-free-tools-and-resources](https://github.com/gab-villa/Cybersecurity-free-tools-and-resources)<br>
+5. ⬆️ Pushed 1 commit(s) to [gab-villa/SOC-tools-and-resources](https://github.com/gab-villa/SOC-tools-and-resources)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
