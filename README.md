@@ -29,11 +29,11 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [rf-peixoto/phishing_pot](https://github.com/rf-peixoto/phishing_pot)<br>
-2. 🔱 Forked [gab-villa/Hunting-Queries-Detection-Rules](https://github.com/gab-villa/Hunting-Queries-Detection-Rules) from [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)<br>
-3. ⭐ Starred [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)<br>
-4. ⭐ Starred [Xacone/COURSES-NOTES](https://github.com/Xacone/COURSES-NOTES)<br>
-5. ⬆️ Pushed 1 commit(s) to [gab-villa/Cybersecurity-free-tools-and-resources](https://github.com/gab-villa/Cybersecurity-free-tools-and-resources)<br>
+1. ⬆️ Pushed 1 commit(s) to [gab-villa/phishing-analysis](https://github.com/gab-villa/phishing-analysis)<br>
+2. 📔 Created new repository [gab-villa/phishing-analysis](https://github.com/gab-villa/phishing-analysis)<br>
+3. ⭐ Starred [rf-peixoto/phishing_pot](https://github.com/rf-peixoto/phishing_pot)<br>
+4. 🔱 Forked [gab-villa/Hunting-Queries-Detection-Rules](https://github.com/gab-villa/Hunting-Queries-Detection-Rules) from [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)<br>
+5. ⭐ Starred [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
