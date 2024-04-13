@@ -31,7 +31,6 @@
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed 1 commit(s) to [gab-villa/phishing-analysis](https://github.com/gab-villa/phishing-analysis)<br>
 2. 📔 Created new repository [gab-villa/phishing-analysis](https://github.com/gab-villa/phishing-analysis)<br>
-3. ⭐ Starred [rf-peixoto/phishing_pot](https://github.com/rf-peixoto/phishing_pot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
