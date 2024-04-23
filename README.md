@@ -29,8 +29,6 @@
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [gab-villa/phishing-analysis](https://github.com/gab-villa/phishing-analysis)<br>
-2. 📔 Created new repository [gab-villa/phishing-analysis](https://github.com/gab-villa/phishing-analysis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
