@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Cybersecurity Analyst at Algeiba!</h3>
 
-- 🌱 Currently learning **blue team operations**
+- 🌱 Currently working hard at automation
 
 - 💬 Ask me about **everything**!
 
 - 🏆 Recently passed the SC-200 exam 🥳 
 
-- ⚡ Security operations: mitigating threats using Microsoft Sentinel and Defender
+- ⚡ Security operations using Microsoft Sentinel and Defender 
 
 - 📫 How to reach me **gab-villa@hotmail.com**
 
