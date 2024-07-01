@@ -7,7 +7,7 @@
 
 - 🏆 Recently passed the SC-200 exam 🥳 
 
-- ⚡ Azure / Microsoft 365 security operations
+- ⚡ Security operations: mitigating threats using Microsoft Sentinel and Defender
 
 - 📫 How to reach me **gab-villa@hotmail.com**
 
