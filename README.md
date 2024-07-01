@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A computer science student from Argentina</h3>
+<h3 align="center">Cybersecurity Analyst at Algeiba!</h3>
 
 - 🌱 Currently learning **blue team operations**
 
 - 💬 Ask me about **everything**!
 
-- 🏆 Recently passed the final algorithms exam at my college 🥳 
+- 🏆 Recently passed the SC-200 exam 🥳 
 
 - 🔎 Looking for developers to create some interesting projects 
 
