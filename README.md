@@ -3,7 +3,7 @@
 
 - 🌱 Currently working hard at automation
 
-- 💬 Ask me about **everything**!
+- 💬 Ask me about **Sentinel Playbooks, KQL, Graph**!
 
 - 🏆 Recently passed the SC-200 exam 🥳 
 
